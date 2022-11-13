@@ -1,0 +1,4 @@
+FARHAN RESOLUSI
+-belajar php
+-belajar react js
+-membuat project todolist
