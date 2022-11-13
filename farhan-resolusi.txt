@@ -1,6 +1,6 @@
 FARHAN RESOLUSI
 -belajar php
 -belajar react js
--membuat project todolist
 -memnbuat website payment gateaway
 -mejadi fullstack developer
+- membuat fake bot
