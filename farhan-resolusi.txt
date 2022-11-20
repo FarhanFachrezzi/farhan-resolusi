@@ -8,5 +8,7 @@ FARHAN RESOLUSI
 - membuat fake bot
 -membuat website payment gateaway
 -belajar frameworks php
-*laravel
 *codeinteger
+
+
+
