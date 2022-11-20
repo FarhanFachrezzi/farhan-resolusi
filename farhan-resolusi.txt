@@ -1,6 +1,8 @@
 FARHAN RESOLUSI
 -belajar php
 -belajar react js
+*membuat website film dengan react js
+*dasar dasar react js
 -memnbuat website payment gateaway
 -mejadi fullstack developer
 - membuat fake bot
