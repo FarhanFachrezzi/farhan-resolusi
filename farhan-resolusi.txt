@@ -7,3 +7,5 @@ FARHAN RESOLUSI
 -mejadi fullstack developer
 - membuat fake bot
 -membuat website payment gateaway
+-belajar frameworks php
+*CI
