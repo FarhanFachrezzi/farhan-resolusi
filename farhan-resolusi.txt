@@ -6,3 +6,4 @@ FARHAN RESOLUSI
 -memnbuat website payment gateaway
 -mejadi fullstack developer
 - membuat fake bot
+-membuat website payment gateaway
